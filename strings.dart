@@ -14,6 +14,7 @@ void main() {
   print(sentence3);
 
   print(sentence2 == sentence3); // We can compare 2 strings using == operator
-  
-
+  print("\u2665");
+  print("\u1f606");
+  // print("");
 }
